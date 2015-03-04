@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'responders', '~> 2.1.0'
+gem 'kaminari'
